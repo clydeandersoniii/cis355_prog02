@@ -297,6 +297,7 @@ class Customer {
                             </tbody>
                         </table>
                     </div>
+                    <img src='andersonCE_prog02_cis355.jpg' />
                 </div>
 
             </body>
